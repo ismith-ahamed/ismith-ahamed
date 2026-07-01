@@ -131,7 +131,7 @@ Junior Network Engineer • IT Support Technician • Cloud Computing Enthusiast
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ismithahamed&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ismith-ahamed&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </p>
 
