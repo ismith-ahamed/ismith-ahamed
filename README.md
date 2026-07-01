@@ -162,7 +162,7 @@ AI-based emotion detection music recommendation system that detects user emotion
 
 **Technologies:**
 
-Arduino • ESP8266 • IoT Cloud
+Arduino • ESP8266 • IoT Cloud • AlexaApp & Api  •Arduino Cloud 
 
 
 IoT based automation system using sensors and microcontrollers.
