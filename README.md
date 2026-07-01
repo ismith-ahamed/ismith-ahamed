@@ -8,6 +8,7 @@ Junior Network Engineer • IT Support Technician • Cloud Computing Enthusiast
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Junior+Network+Engineer;IT+Support+Technician;Cloud+Computing+Enthusiast;Cybersecurity+Learner;AI+%26+IoT+Developer;Always+Learning+New+Technologies"/>
 </p>
 
+
 <p align="center">
 
 <a href="https://github.com/ismith-ahamed">
@@ -22,6 +23,7 @@ Junior Network Engineer • IT Support Technician • Cloud Computing Enthusiast
 
 </p>
 
+
 ---
 
 # 🚀 About Me
@@ -34,6 +36,226 @@ Junior Network Engineer • IT Support Technician • Cloud Computing Enthusiast
 
 🛡️ Learning Cybersecurity, Ethical Hacking and Cloud Security
 
+🌐 Experienced with Cisco Networking, TCP/IP, VLAN, Routing & Switching
+
+🤖 Building AI, Machine Learning and IoT Projects
+
+📍 Based in Abu Dhabi, UAE
+
+
+---
+
+# 🌐 Connect With Me
+
+
+<p align="center">
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:mrismith2003@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+
+---
+
+# 💻 Skills & Technologies
+
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,php,mysql,linux,git,github,vscode,docker,aws,azure,arduino,tensorflow"/>
+
+</p>
+
+
+---
+
+# 🌐 Networking Skills
+
+- Cisco Packet Tracer
+- Router & Switch Configuration
+- VLAN Configuration
+- Inter-VLAN Routing
+- TCP/IP
+- DNS
+- DHCP
+- LAN/WAN
+- Network Security
+- Troubleshooting
+- Wireshark
+- VMware
+
+
+---
+
+# ☁️ Cloud & DevOps
+
+- AWS Cloud
+- Microsoft Azure
+- Docker
+- Linux Administration
+- Git & GitHub
+- Virtualization
+
+
+---
+
+# 🚀 Featured Projects
+
+
+## 🏢 SpeedTech Company Enterprise Network Infrastructure
+
+<a href="https://github.com/ismith-ahamed/SpeedTech-Network-Infrastructure">
+
+<img src="https://img.shields.io/badge/View%20Cisco%20Network%20Project-GitHub-black?style=for-the-badge&logo=github"/>
+
+</a>
+
+
+**Description:**
+
+Designed and configured an enterprise network infrastructure for SpeedTech Company using Cisco Packet Tracer.
+
+
+**Technologies:**
+
+- Cisco Packet Tracer
+- VLAN
+- Routing & Switching
+- DHCP
+- IP Addressing
+- Network Security
+- Troubleshooting
+
+
+---
+
+## 🤖 Emotion Based Music Recommendation System
+
+**Technologies:**
+
+Python • TensorFlow • OpenCV • MediaPipe • Streamlit
+
+
+AI system that detects emotions and recommends music based on user expressions.
+
+
+---
+
+## 💡 Smart Home Automation System
+
+**Technologies:**
+
+Arduino • ESP8266 • IoT Cloud
+
+
+IoT-based automation system using sensors and microcontrollers.
+
+
+---
+
+## 🔐 Ransomware Detection System
+
+**Technologies:**
+
+Python • Machine Learning • Data Analysis
+
+
+Machine learning approach for detecting suspicious activities.
+
+
+---
+
+
+# 📊 GitHub Stats
+
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ismith-ahamed&show_icons=true&theme=github_dark&rank_icon=github"/>
+
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismith-ahamed&layout=compact&theme=github_dark"/>
+
+</p>
+
+
+---
+
+# 🔥 GitHub Streak
+
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ismith-ahamed&theme=github-dark-blue"/>
+
+</p>
+
+
+---
+
+# 🏆 GitHub Trophy
+
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ismith-ahamed&theme=algolia&no-frame=true&row=2&column=4"/>
+
+</p>
+
+
+---
+
+# 📈 Contribution Graph
+
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ismith-ahamed&theme=github-dark"/>
+
+</p>
+
+
+---
+
+# 📚 Certifications & Learning
+
+🏅 Pearson BTEC HND Computing (Network Engineering)
+
+🏅 Cisco Networking Certifications
+
+🏅 Cybersecurity Learning
+
+🏅 Cloud Computing Training
+
+
+---
+
+# 🎯 Current Goals
+
+✅ CCNA Certification
+
+✅ AWS Cloud Practitioner
+
+✅ Microsoft Azure Administrator
+
+✅ CompTIA Security+
+
+✅ Build More Open Source Projects
+
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile!
+
+</h3>
 💻 Experienced with Windows, Linux, Microsoft 365 and IT Support
 
 🌐 Skilled in TCP/IP, DNS, DHCP, VLANs, Routing & Switching
